@@ -9,4 +9,5 @@ Connect android mobile phone to PC with cabel. Phone might be in dewelopment mod
 To make app write in terminal:
 
 flutter pub get
+
 flutter run
